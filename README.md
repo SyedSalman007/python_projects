@@ -1,2 +1,13 @@
 # python_projects
-enchaning my python skills by working on different projects
+Enhancing my Python skills by working on different projects
+
+Following are the projects available in this Repository are:
+1. Auction House
+2. Black Jack Game
+3. Calculator
+4. Coffee Machine
+5. Draw shapes with turtle package
+6. Hangman
+7. Higher Lower Game
+8. Number Guessing Game
+9. Turtle Racing Game
