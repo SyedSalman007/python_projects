@@ -6,8 +6,9 @@ Following are the projects available in this Repository are:
 2. Black Jack Game
 3. Calculator
 4. Coffee Machine
-5. Draw shapes with turtle package
+5. Draw shapes with a turtle package
 6. Hangman
 7. Higher Lower Game
 8. Number Guessing Game
 9. Turtle Racing Game
+10. Snake Game
