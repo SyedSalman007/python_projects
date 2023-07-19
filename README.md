@@ -7,7 +7,7 @@ Following are the projects available in this Repository are:
 3. Calculator
 4. Coffee Machine
 5. Draw shapes with a turtle package
-6. Hangman
+6. Hangman Game
 7. Higher Lower Game
 8. Number Guessing Game
 9. Turtle Racing Game
