@@ -15,3 +15,4 @@ Following are the projects available in this Repository are:
 11. Snake Game
 12. Pong Game
 13. Turtle Road Crossing Game
+14. Mail Merge Project
